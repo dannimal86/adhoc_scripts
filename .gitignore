@@ -1,0 +1,27 @@
+# Spread calculator result files
+spread_results_*.txt
+asia_spreads_*.txt
+
+# R specific files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Environment files
+.env
+.env.*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cursor specific
+.cursor/
+.cursor-rules/ 
